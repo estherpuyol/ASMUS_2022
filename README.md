@@ -5,7 +5,7 @@ Left ventricular (LV) function is an important factor in terms of patient manage
 ## Citation
 If our work brings insights to you, or you use the codebase, please cite our paper as:
 ```
-@artical{puyol2022asmum,
+@artical{puyol2022ASMUS,
   title={AI-enabled Assessment of Cardiac Systolic and Diastolic Function from Echocardiography},
   author={Puyol-Antó Esther, Ruijsink Bram, Sidhu Baldeep S., Gould Justin, Porter Bradley, Elliott Mark K., Mehta Vishal, Gu Haotian, Rinaldi1,2 Martin Cowie5 Phil Chowienczyk Christopher A., Razavi Reza, and King Andrew P.},
   booktitle={International Workshop on Advances in Simplifying Medical Ultrasound},
